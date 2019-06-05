@@ -2,7 +2,7 @@
 
 Playing around with Docker and Dockerfiles, and compiling information on how to use it.
 
-# Installing Docker for Ubuntu
+## Installing Docker for Ubuntu
 
 The below instructions have been adapated from the [official docs](https://docs.docker.com/install/linux/docker-ce/ubuntu/#install-docker-ce).
 
