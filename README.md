@@ -39,3 +39,12 @@ The below instructions have been adapated from the [official docs](https://docs.
 * https://www.guru99.com/docker-tutorial.html
 * https://www.edureka.co/blog/docker-tutorial
 * https://www.toptal.com/devops/getting-started-with-docker-simplifying-devops
+* https://likegeeks.com/docker-tutorial/
+* https://www.katacoda.com/courses/docker
+* https://www.codementor.io/sheena/hello-microservice-deployment-part-1-docker-kw9ejpd9o
+* https://takacsmark.com/dockerfile-tutorial-by-example-dockerfile-best-practices-2018/
+* https://docs.docker.com/get-started/
+* https://www.keycdn.com/blog/docker-tutorial
+* https://realpython.com/tutorials/docker/
+* https://tecadmin.net/tutorial/docker/docker-tutorials/
+* https://training.play-with-docker.com/
