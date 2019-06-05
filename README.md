@@ -1,6 +1,6 @@
-# docker-playground
+# Docker Playground
 
-Playing around with Docker and Dockerfiles.
+Playing around with Docker and Dockerfiles, and compiling information on how to use it.
 
 # Installing Docker for Ubuntu
 
