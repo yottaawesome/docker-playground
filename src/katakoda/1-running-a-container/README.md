@@ -62,7 +62,7 @@ Containers are designed to be stateless. Binding directories (also known as volu
 
 * `docker run -d --name <container-name> -v <host-dir>:<container-dir> <image>`
 
-## Step 6 -- running a container in ihe foreground
+## Step 6 -- running a container in the foreground
 
 If we wanted to interact with the container (for example, to access a bash shell) she could include the options `-it`. In addition, certain images allow you to override the command used to launch the image. For example, the Ubuntu image can either run OS commands or run an interactive bash prompt using /bin/bash
 
